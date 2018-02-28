@@ -1,0 +1,29 @@
+{
+  "name": "cat.js",
+  "version": "1.0.0",
+  "description": "Basic UNIX 'cat' util written in JS.",
+  "main": "cat",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LilithTundrus/cat-js.git"
+  },
+  "keywords": [
+    "cat",
+    "unix",
+    "tools",
+    "js",
+    "es6"
+  ],
+  "author": "Lilith Tundrus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LilithTundrus/cat-js/issues"
+  },
+  "homepage": "https://github.com/LilithTundrus/cat-js#readme"
+}
