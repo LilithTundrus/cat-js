@@ -7,10 +7,6 @@ Run this shell script like any other script.
 
 First, modify the script to be executable: 
 
-Run this shell script like any other script.
-
-First, modify the script to be executable: 
-
 ```shell
 chmod +x cat.js
 ```
